@@ -40,3 +40,18 @@
 [submodule "bundle/arduino-syntax"]
 	path = bundle/arduino-syntax
 	url = git@github.com:sudar/vim-arduino-syntax.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = git@github.com:tpope/vim-fugitive.git
+[submodule "bundle/dbgpclient"]
+	path = bundle/dbgpclient
+	url = git@github.com:garyaj/vim-dbgpclient.git
+[submodule "bundle/expand-region"]
+	path = bundle/expand-region
+	url = git@github.com:terryma/vim-expand-region.git
+[submodule "bundle/repeat"]
+	path = bundle/repeat
+	url = git@github.com:tpope/vim-repeat.git
+[submodule "bundle/json"]
+	path = bundle/json
+	url = git@github.com:elzr/vim-json.git

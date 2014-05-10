@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='C:/Program Files/Ember/EmberZNet3.5.1/em250/stack/include'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/colinwaddell/Desktop/Robin/adctomidi bluetooth'
+let g:netrw_dirhist_2='/Applications/XAMPP/xamppfiles/htdocs/gear2/wp-content/themes/myway'
+let g:netrw_dirhist_3='/Applications/XAMPP/xamppfiles/htdocs/gear2/wp-content/themes/myway/js'
+let g:netrw_dirhist_4='/Users/colinwaddell/Downloads/kissmvc_demo'
