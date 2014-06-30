@@ -1,4 +1,4 @@
 "=============== Powerline
-set guifont=Droid_Sans_Mono_for_Powerline:h11
+set guifont=set guifont=Sauce_Code_Powerline:h10
 let g:airline_powerline_fonts = 1
-:AirlineTheme powerlineish
+":AirlineTheme powerlineish
