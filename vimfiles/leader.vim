@@ -1,5 +1,6 @@
 "=============== Fix leader key
 let mapleader = "\<Space>"
+let maplocalleader = "\\"
 
 " Quick Save
 nnoremap <Leader>w :w<CR>
