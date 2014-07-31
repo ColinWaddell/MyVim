@@ -18,8 +18,8 @@ nnoremap <leader>W :set wrap!<cr>
 
 
 " Folding Toggle 
-nnoremap <Leader>a za
-nnoremap <Leader>A zA
+nnoremap <Leader>t za
+nnoremap <Leader>T zA
 
 
 
