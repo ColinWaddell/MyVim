@@ -9,5 +9,9 @@ set ai
 set number
 set colorcolumn=80
 set colorcolumn=120
+
 syntax on
 set nospell
+
+set formatoptions=qrn1j
+

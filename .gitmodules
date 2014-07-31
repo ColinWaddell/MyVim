@@ -55,3 +55,10 @@
 [submodule "bundle/json"]
 	path = bundle/json
 	url = git@github.com:elzr/vim-json.git
+[submodule "bundle/jade"]
+	path = bundle/jade
+	url = git@github.com:digitaltoad/vim-jade.git
+[submodule "bundle/indentline"]
+	path = bundle/indentline
+	url = git@github.com:Yggdroot/indentLine.git
+
