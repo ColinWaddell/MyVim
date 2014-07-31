@@ -5,7 +5,7 @@ cmap wR<CR> :w !sudo tee % <CR>
 
 
 " Remap code commenting
-map // \cc
-map ?? \cu
+map // <Leader>cc
+map ?? <Leader>cu
 
 
