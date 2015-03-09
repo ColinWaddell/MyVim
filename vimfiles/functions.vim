@@ -14,3 +14,7 @@ function! s:Repl()
   return "p@=RestoreRegister()\<cr>"
 endfunction
 vmap <silent> <expr> p <sid>Repl()
+
+
+" Fix new lines in Windows when they all end in ^M
+:command FixWindowsLines :e ++ff=dos
